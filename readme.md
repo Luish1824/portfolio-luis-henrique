@@ -14,7 +14,7 @@
 
 ##  Sobre o Projeto
 
-Este portfólio foi desenvolvido no âmbito do programa **Trilhas Inova**, priorizando uma experiência de utilizador fluida e um design minimalista em modo escuro (`#0d1117`). O site conta com navegação intuitiva por botões em formato de pílula, grelhas auto-organizáveis e links diretos para visualização de conteúdos.
+Este portfólio foi desenvolvido no âmbito do programa **Trilhas Inova**, priorizando uma experiência de utilizador fluida e um design minimalista em modo escuro. O site conta com navegação intuitiva por botões em formato de pílula, grelhas auto-organizáveis e links diretos para visualização de conteúdos.
 
 ##  Tecnologias Utilizadas
 
