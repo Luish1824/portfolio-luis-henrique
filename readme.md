@@ -3,7 +3,7 @@
 # 🚀 Portfólio Pessoal &bull; Luis Henrique
 
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-green.svg)]()
-[![Tecnologias](https://img.shields.io/badge/tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue.svg)]()
+[![Tecnologias](https://img.shields.io/badge/tecnologias-HTML5%20%7C%20CSS3%20%7C.svg)]()
 [![Programa](https://img.shields.io/badge/programa-Trilhas%20Inova-purple.svg)]()
 
 *Um portfólio web responsivo e moderno, inspirado na interface do GitHub, desenvolvido para centralizar projetos e certificados de forma limpa e acessível.*
@@ -22,7 +22,6 @@ As seguintes tecnologias foram utilizadas na construção da interface:
 
 * **HTML5**: Estrutura semântica das páginas (`portfolio.html`, `projetos.html`, `certificados.html`, `sobre.html`).
 * **CSS3**: Estilização personalizada, Flexbox e CSS Grid (`auto-fit` e `minmax`) para total responsividade.
-* **JavaScript**: Interatividade e suporte a funcionalidades dinâmicas.
 
 ## 📂 Estrutura do Repositório
 
