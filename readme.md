@@ -16,7 +16,7 @@
 
 Este portfólio foi desenvolvido no âmbito do programa **Trilhas Inova**, priorizando uma experiência de utilizador fluida e um design minimalista em modo escuro (`#0d1117`). O site conta com navegação intuitiva por botões em formato de pílula, grelhas auto-organizáveis e links diretos para visualização de conteúdos.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **HTML5**: Estrutura semântica das páginas.
 * **CSS3**: Estilización personalizada, Flexbox e CSS Grid (`auto-fit` e `minmax`) para total responsividade.
