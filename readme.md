@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Portfólio Pessoal &bull; Luis Henrique
+#  Portfólio Pessoal &bull; Luis Henrique
 
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-green.svg)]()
 [![Tecnologias](https://img.shields.io/badge/tecnologias-HTML5%20%7C%20CSS3-blue.svg)]()
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este portfólio foi desenvolvido no âmbito do programa **Trilhas Inova**, priorizando uma experiência de utilizador fluida e um design minimalista em modo escuro (`#0d1117`). O site conta com navegação intuitiva por botões em formato de pílula, grelhas auto-organizáveis e links diretos para visualização de conteúdos.
 
@@ -21,7 +21,7 @@ Este portfólio foi desenvolvido no âmbito do programa **Trilhas Inova**, prior
 * **HTML5**: Estrutura semântica das páginas.
 * **CSS3**: Estilización personalizada, Flexbox e CSS Grid (`auto-fit` e `minmax`) para total responsividade.
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 /
